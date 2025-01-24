@@ -30,10 +30,10 @@ app.js assets/ index.html style.css
 ## Exemplo de Uso
 
 1. Adicione os nomes dos amigos:
-   ![Adicionar Amigos](assets/add_friends.png)
+   ![Adicionar Amigos].
 
 2. Sorteie os pares de amigos secretos:
-   ![Sortear Amigos](assets/draw_friends.png)
+   ![Sortear Amigos].
 
 ## Tecnologias Utilizadas
 
